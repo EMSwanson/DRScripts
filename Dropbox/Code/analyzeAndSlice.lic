@@ -4,4 +4,10 @@
 ### And Github
 ###########################################
 
+fput "look"
+fput "analyze"
+waitrt?
+
+echo ***working so far***
+
 
